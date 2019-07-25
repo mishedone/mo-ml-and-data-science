@@ -13,6 +13,7 @@ This gave me a solid foundation and knowledge how math and programming intersect
 
 ### Projects
 
-The explorations are split into small projects within their own namespace. Each one contains a main Jupyter Notebook with all of the findings and a bunch of optional helper scripts. Feel free to check them out:
+The explorations are split into small projects. Each one contains a main Jupyter Notebook with all of the findings and a bunch of optional helper scripts. Feel free to check them out:
 
-* [Perlin Noise implementation](01-perlin-noise/perlin-noise.ipynb)
+* [Perlin noise - оrigin, аpplication, implementation and demonstration](01-perlin-noise/perlin-noise.ipynb)
+* [To brew or not to brew - exploring beers (craft, homemade and in-store)](02-to-brew-or-not-to-brew/to-brew-or-not-to-brew.ipynb)
