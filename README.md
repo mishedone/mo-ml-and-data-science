@@ -17,3 +17,5 @@ The explorations are split into small projects. Each one contains a main Jupyter
 
 * [Perlin noise - оrigin, аpplication, implementation and demonstration](01-perlin-noise/perlin-noise.ipynb)
 * [To brew or not to brew - exploring beers (craft, homemade and in-store)](02-to-brew-or-not-to-brew/to-brew-or-not-to-brew.ipynb)
+
+**You may have to reload some of them multiple times because they are big**
